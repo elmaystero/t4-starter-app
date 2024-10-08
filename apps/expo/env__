@@ -1,0 +1,27 @@
+# 🛎️ For local dev
+# 👉 Rename this file to .env.local
+# 👉 Fill in the values below.
+
+# Expo & Next.js)
+PUBLIC_API_URL=http://localhost:8787
+PUBLIC_APP_URL=http://localhost:3000
+PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBmeHVhdWtvbGlqd2J0ZXNhemtjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mjc1MjQ0NDIsImV4cCI6MjA0MzEwMDQ0Mn0.b-29kyGmMbow7RqOs7_J8RrDALbgEmninOh6hTNVvUQ
+PUBLIC_SUPABASE_URL=https://pfxuaukolijwbtesazkc.supabase.co
+PUBLIC_SUPPORT_EMAIL=xxxx
+PUBLIC_METADATA_NAME=T4 App
+PUBLIC_METADATA_DESCRIPTION=Type-Safe, Full-Stack Starter Kit for React Native + Web
+PUBLIC_EAS_OWNER=timothymiller
+PUBLIC_EAS_PROJECT_ID=85fc6ccd-0ce1-4e4d-804c-b15df989f97e
+
+# Cloudflare Wrangler
+JWT_VERIFICATION_KEY=abc
+DATABASE_ID=aa5e3923-0f1b-469a-8bb8-d10fb866efe0
+
+NEXT_PUBLIC_API_URL=http://localhost:8787
+NEXT_PUBLIC_APP_URL=http://localhost:3000
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBmeHVhdWtvbGlqd2J0ZXNhemtjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mjc1MjQ0NDIsImV4cCI6MjA0MzEwMDQ0Mn0.b-29kyGmMbow7RqOs7_J8RrDALbgEmninOh6hTNVvUQ
+NEXT_PUBLIC_SUPABASE_URL=https://pfxuaukolijwbtesazkc.supabase.co
+NEXT_PUBLIC_SUPPORT_EMAIL=xxxx
+
+EXPO_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBmeHVhdWtvbGlqd2J0ZXNhemtjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mjc1MjQ0NDIsImV4cCI6MjA0MzEwMDQ0Mn0.b-29kyGmMbow7RqOs7_J8RrDALbgEmninOh6hTNVvUQ
+EXPO_PUBLIC_SUPABASE_URL=https://pfxuaukolijwbtesazkc.supabase.co
